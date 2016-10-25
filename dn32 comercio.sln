@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControladorDePedidos.WPF", "ControladorDePedidos.WPF\ControladorDePedidos.WPF.csproj", "{5C8E4844-3EA7-4AB2-A188-9D2B257C54DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControladorDePedidos.Model", "ControladorDePedidos.Model\ControladorDePedidos.Model.csproj", "{78463D02-F4DE-431E-B01B-1557E46649E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControladorDePedidos.Repositorio", "ControladorDePedidos.Repositorio\ControladorDePedidos.Repositorio.csproj", "{3C2AB354-D2BA-4BC7-BFE3-50DDF57225A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C8E4844-3EA7-4AB2-A188-9D2B257C54DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8E4844-3EA7-4AB2-A188-9D2B257C54DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8E4844-3EA7-4AB2-A188-9D2B257C54DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8E4844-3EA7-4AB2-A188-9D2B257C54DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78463D02-F4DE-431E-B01B-1557E46649E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78463D02-F4DE-431E-B01B-1557E46649E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78463D02-F4DE-431E-B01B-1557E46649E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78463D02-F4DE-431E-B01B-1557E46649E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2AB354-D2BA-4BC7-BFE3-50DDF57225A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2AB354-D2BA-4BC7-BFE3-50DDF57225A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2AB354-D2BA-4BC7-BFE3-50DDF57225A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2AB354-D2BA-4BC7-BFE3-50DDF57225A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
